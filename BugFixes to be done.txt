@@ -1,18 +1,18 @@
-MainMenu Music
-Background + Animation
-Player Movement block at the beginning
-Subtitle is not centered and doesnot disappear.
-Plate is floating around.
+// MainMenu Music
+Transition Map Background + Animation
+// Player Movement block at the beginning
+// Subtitle is not centered and doesnot disappear.
+// Plate is floating around.
 Overlapping Meshes in Level
-Garage Gate Collider.
+// Garage Gate Collider.
 Bottle collecting SOund Effects.
 Door Rotation
-Mug on top floor
+// Mug on top floor
 Place more object in Rack.
-Sleep Animation+Sleep UI.
-Ai is also able to toggle E ann F audio.
-Audio Overlapping.
-Cupboards.
+// Sleep Animation+Sleep UI.
+// Ai is also able to toggle E ann F audio.
+// Audio Overlapping.
+// Cupboards.
 Exit Animation
-Add a main door.
+// Add a main door.
 Parallax Window.
