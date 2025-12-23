@@ -1,18 +1,28 @@
 // MainMenu Music
-Transition Map Background + Animation
+// Transition Map Background + Animation
 // Player Movement block at the beginning
 // Subtitle is not centered and doesnot disappear.
 // Plate is floating around.
-Overlapping Meshes in Level
+// Door Rotation
 // Garage Gate Collider.
-Bottle collecting SOund Effects.
-Door Rotation
 // Mug on top floor
-Place more object in Rack.
 // Sleep Animation+Sleep UI.
 // Ai is also able to toggle E ann F audio.
 // Audio Overlapping.
 // Cupboards.
-Exit Animation
 // Add a main door.
-Parallax Window.
+// Parallax Window.
+// Stop light coming from garage door
+// Fix parallax window (looks like parallax scene capture has to be in same map)
+// Reduce Fridge door sound by half
+Texture the House
+Create a pause game menu (UI)
+Fix lighting 
+Create car door mechanism (for trunk)
+Door sound effects for all doors
+Reduce Mouse sensitivity 
+walls gap near top floor room and bathroom
+Overlapping Meshes in Level
+Bottle collecting Sound Effects.
+Place more object in Rack.
+Exit Animation
