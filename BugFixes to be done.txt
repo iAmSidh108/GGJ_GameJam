@@ -16,14 +16,18 @@ hi vishnu
 // Stop light coming from garage door
 // Fix parallax window (looks like parallax scene capture has to be in same map)
 // Reduce Fridge door sound by half
+// Optimize Current Map
+// Reduce Mouse sensitivity
+// Create a pause game menu (UI)
+
 Texture the House
-Create a pause game menu (UI)
 Fix lighting 
 Create car door mechanism (for trunk)
 Door sound effects for all doors
-Reduce Mouse sensitivity 
 walls gap near top floor room and bathroom
 Overlapping Meshes in Level
 Bottle collecting Sound Effects.
 Place more object in Rack.
 Exit Animation
+Fix AI
+
