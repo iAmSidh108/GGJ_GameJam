@@ -20,14 +20,17 @@ hi vishnu
 // Reduce Mouse sensitivity
 // Create a pause game menu (UI)
 
-Texture the House
-Fix lighting 
 Create car door mechanism (for trunk)
 Door sound effects for all doors
-walls gap near top floor room and bathroom
-Overlapping Meshes in Level
 Bottle collecting Sound Effects.
-Place more object in Rack.
-Exit Animation
+Sleep Animation
 Fix AI
+Environment Design for existing greyboxed map 
+Sleep Mechanism (snoring meter)
+Camera Mechanism 
+Phone Gadget 
+Cooker Mechanism 
+Kid Nany Cam 
+Kid Waking up logic
+Landline Call Mechanism 
 
